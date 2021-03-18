@@ -1,2 +1,2 @@
 # rekoober
-Proyecto rekooober desarrollado por Miguel Jimeno 
+Proyecto rekooober desarrollado por Miguel Jimeno - Mariana Orellana
